@@ -1,4 +1,4 @@
-package com.company;
+package firstHomework;
 
 public class MegaByteConverter {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.company;
+package firstHomework;
 
 public class AreaCalculator {
     public static void main(String[] args) {
